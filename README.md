@@ -1,6 +1,6 @@
 # CSharpTutorial
-====
-C#教學練習
+
+# C#教學練習
 
 ## 這邊以ASP.NET Core 為主要開發
 
