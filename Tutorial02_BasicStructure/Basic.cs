@@ -32,11 +32,4 @@ namespace YourNamespace
         {
         }
     }
-    class YourMainClass
-    {
-        static void Main(string[] args) 
-        {
-            //Your program starts here...
-        }
-    }
 }

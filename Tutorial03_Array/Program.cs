@@ -97,9 +97,9 @@ namespace Tutorial03_Array
             //循序取值
             foreach (int i in numbers)
             {
-                System.Console.Write("{0} ", i);
+               Console.Write("{0} ", i);
             }
-            System.Console.WriteLine();
+            Console.WriteLine();
             // Output: 4 5 6 1 2 3 -2 -1 0
 
             //多維陣列操作
@@ -108,9 +108,9 @@ namespace Tutorial03_Array
             // int[,] numbers2D = { { 9, 99 }, { 3, 33 }, { 5, 55 } };
             foreach (int i in numbers2D)
             {
-                System.Console.Write("{0} ", i);
+                Console.Write("{0} ", i);
             }
-            System.Console.WriteLine();
+            Console.WriteLine();
             // Output: 9 99 3 33 5 55
 
             //您可以將初始化的一維陣列傳遞至方法。
@@ -133,18 +133,18 @@ namespace Tutorial03_Array
         {
             foreach (int i in arr)
             {
-                System.Console.Write("{0} ", i);
+                Console.Write("{0} ", i);
             }
-            System.Console.WriteLine();
+            Console.WriteLine();
         }
 
         public static void Print2DArray(int[,] arr)
         {
             foreach (int i in arr)
             {
-                System.Console.Write("{0} ", i);
+                Console.Write("{0} ", i);
             }
-            System.Console.WriteLine();
+            Console.WriteLine();
         }
 
 
