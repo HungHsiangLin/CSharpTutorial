@@ -1,7 +1,7 @@
-# CSharpTutorial
-C#教學
-====
-## 這邊以ASP.NET Core 為主要開發
+# C#教學練習
+
+## 這邊以ASP.NET Core 為主要框架開發練習
+參考於:<a href= "https://docs.microsoft.com/zh-tw/dotnet/csharp/tour-of-csharp/">MSDN C#教學</a>
 
 >建立一般Console指令</br>
 >mkdir [專案名稱]</br>
