@@ -1,6 +1,7 @@
 # CSharpTutorial
-C#教學
 ====
+C#教學練習
+
 ## 這邊以ASP.NET Core 為主要開發
 
 >建立一般Console指令</br>
